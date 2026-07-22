@@ -1,0 +1,6 @@
+# Local preview and editor files
+.venv/
+.vscode/
+*.swp
+*~
+
